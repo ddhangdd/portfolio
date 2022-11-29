@@ -149,6 +149,12 @@ li{
     color: grey
 }
 
+#test {
+    font-weight: 120;
+    padding-left: 0%;
+}
+
+
 @media(max-width:600px){
 
     .section--page{
